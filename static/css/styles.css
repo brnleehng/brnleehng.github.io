@@ -138,6 +138,17 @@ body {
   font-weight: bold;
 }
 
+.lead {
+    padding: 0 20px;
+}
+
+.icom-item {
+    padding: 0 20px;
+}
+
+.profile-pic {
+    border-radius: 100%;
+}
 
 /*
  * Footer
