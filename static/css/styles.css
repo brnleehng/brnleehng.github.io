@@ -1,0 +1,21 @@
+.profile-section {
+    position: absolute;
+    text-align: center;
+    width: 50%;
+    width: 50%;
+    top: 25%;
+    left: 25%;
+    margin: 0 auto;
+}
+
+.icons-item a {
+    color: #373737;
+}
+
+.icons-list-item {
+    list-style: none;
+    width: 33%;
+    float: left;
+    margin: 0 0 2.5rem;
+    font-size: 1.9rem;
+}
